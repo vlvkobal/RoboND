@@ -9,3 +9,4 @@
 6. [Where Am I?](Where%20Am%20I/Where%20Am%20I%20Writeup.pdf)
 7. [Map My World](Map%20My%20World/Map%20My%20World%20Writeup.pdf)
 8. [Deep RL Arm Manipulation](Deep%20RL%20Arm%20Manipulation/Deep%20RL%20Arm%20Manipulation%20Writeup.pdf)
+9. [Home Service Robot](Home%20Service%20Robot/)
